@@ -55,7 +55,9 @@ This is a project of a Shopping Web Application in which I have granted several 
 ## Installing the application:
 
 $ git clone https://github.com/AdrianMargarit/Shopping-app.git
+
 $ cd Shopping-app/install
+
 $ docker compose -f app-compose.yaml up
 
 ## Executing the application:
